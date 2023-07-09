@@ -100,9 +100,10 @@ For example, Wikipedia's URL is <https://www.wikipedia.org>.
 Then we can use `<iframe>` tag in the HTML and provide this URL to its `src` attribute.
 
 <small>
-<b>NOTE: </b>
-Not all websites allow embedding via the <code>&lt;iframe&gt;</code> tag.
-Some websites have restrictions that prevent them from being embedded in this manner.
+    <b>NOTE: </b>
+    Not all websites allow embedding via the <code>&lt;iframe&gt;</code> tag.
+    Some websites have restrictions that prevent them from being embedded in this manner.
+    <br>
 </small>
 
 ```html
